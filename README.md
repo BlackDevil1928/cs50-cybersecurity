@@ -3,7 +3,7 @@
 A personal repository containing solutions, notes, and supporting files for the CS50: Introduction to Cybersecurity (assignments, labs, and exercises). This repo is organized to make each problem set/self-contained lab easy to find, run, and review.
 
 ## Table of contents
-- [Securing Accounts](assignments/week0.md)
+- [Securing Accounts](#assignments/week0.md)
 <!-- - [Repository structure](#repository-structure)
 - [Getting started](#getting-started)
 - [How to run assignments](#how-to-run-assignments)
